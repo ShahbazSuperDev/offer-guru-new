@@ -16,7 +16,9 @@ class Forgot_password : AppCompatActivity() {
         val edt1: EditText = findViewById<View>(R.id.edt3) as EditText
 
         button.setOnClickListener {
-            Toast.makeText(this@Forgot_password, "Forgot password.", Toast.LENGTH_SHORT).show()
+            if(edt1.text.isNullOrBlank())
+            {Toast.makeText(this@Forgot_password, "Forgot password.", Toast.LENGTH_SHORT).show()}
+            else{Toast.makeText(this@Forgot_password, "${edt1.text} is submitted!!.", Toast.LENGTH_SHORT).show()}
         }
     }
 }

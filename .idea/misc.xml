@@ -4,11 +4,49 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/shahbaz workspace/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2625" />
+        <entry key="..\:/shahbaz workspace/app/src/main/res/drawable/bodars.xml" value="0.25846153846153846" />
+        <entry key="..\:/shahbaz workspace/app/src/main/res/drawable/corners.xml" value="0.25846153846153846" />
+        <entry key="..\:/shahbaz workspace/app/src/main/res/drawable/ic_dashboard.xml" value="0.2388888888888889" />
+        <entry key="..\:/shahbaz workspace/app/src/main/res/drawable/ic_dehaze.xml" value="0.2462962962962963" />
         <entry key="..\:/shahbaz workspace/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2625" />
+        <entry key="..\:/shahbaz workspace/app/src/main/res/drawable/ic_more_vert.xml" value="0.2462962962962963" />
+        <entry key="..\:/shahbaz workspace/app/src/main/res/drawable/ic_offer.xml" value="0.2388888888888889" />
+        <entry key="..\:/shahbaz workspace/app/src/main/res/drawable/ic_payout.xml" value="0.2388888888888889" />
+        <entry key="..\:/shahbaz workspace/app/src/main/res/drawable/ic_profile.xml" value="0.2388888888888889" />
+        <entry key="..\:/shahbaz workspace/app/src/main/res/drawable/ic_setting.xml" value="0.2462962962962963" />
         <entry key="..\:/shahbaz workspace/app/src/main/res/drawable/rd.xml" value="0.2625" />
         <entry key="..\:/shahbaz workspace/app/src/main/res/layout/activity_forgot_password.xml" value="0.17255434782608695" />
         <entry key="..\:/shahbaz workspace/app/src/main/res/layout/activity_main.xml" value="0.11980749746707194" />
+        <entry key="..\:/shahbaz workspace/app/src/main/res/layout/activity_main2.xml" value="0.22192028985507245" />
+        <entry key="..\:/shahbaz workspace/app/src/main/res/layout/activity_menu.xml" value="0.11980749746707194" />
         <entry key="..\:/shahbaz workspace/app/src/main/res/layout/activity_register_sign_in.xml" value="0.16621376811594202" />
+        <entry key="..\:/shahbaz workspace/app/src/main/res/layout/appbar.xml" value="0.24635416666666668" />
+        <entry key="..\:/shahbaz workspace/app/src/main/res/layout/dashboard.xml" value="0.24635416666666668" />
+        <entry key="..\:/shahbaz workspace/app/src/main/res/layout/demoitem.xml" value="0.24635416666666668" />
+        <entry key="..\:/shahbaz workspace/app/src/main/res/layout/drawerlayout.xml" value="0.24635416666666668" />
+        <entry key="..\:/shahbaz workspace/app/src/main/res/layout/drawerlayout2.xml" value="0.24635416666666668" />
+        <entry key="..\:/shahbaz workspace/app/src/main/res/layout/fragment_commision.xml" value="0.21034180543382996" />
+        <entry key="..\:/shahbaz workspace/app/src/main/res/layout/fragment_dashboard.xml" value="0.24635416666666668" />
+        <entry key="..\:/shahbaz workspace/app/src/main/res/layout/fragment_offers.xml" value="0.233201581027668" />
+        <entry key="..\:/shahbaz workspace/app/src/main/res/layout/fragment_order.xml" value="0.2054794520547945" />
+        <entry key="..\:/shahbaz workspace/app/src/main/res/layout/fragment_order_fragment.xml" value="0.24635416666666668" />
+        <entry key="..\:/shahbaz workspace/app/src/main/res/layout/fragment_paout.xml" value="0.24635416666666668" />
+        <entry key="..\:/shahbaz workspace/app/src/main/res/layout/fragment_payout.xml" value="0.1892542101042502" />
+        <entry key="..\:/shahbaz workspace/app/src/main/res/layout/fragment_profile.xml" value="0.24635416666666668" />
+        <entry key="..\:/shahbaz workspace/app/src/main/res/layout/fragment_setting.xml" value="0.24635416666666668" />
+        <entry key="..\:/shahbaz workspace/app/src/main/res/layout/header.xml" value="0.23007246376811594" />
+        <entry key="..\:/shahbaz workspace/app/src/main/res/layout/item_commision.xml" value="0.24635416666666668" />
+        <entry key="..\:/shahbaz workspace/app/src/main/res/layout/itme_commision.xml" value="0.24635416666666668" />
+        <entry key="..\:/shahbaz workspace/app/src/main/res/layout/itme_offers.xml" value="0.24635416666666668" />
+        <entry key="..\:/shahbaz workspace/app/src/main/res/layout/itmepayout.xml" value="0.24635416666666668" />
+        <entry key="..\:/shahbaz workspace/app/src/main/res/layout/nav_header.xml" value="0.24635416666666668" />
+        <entry key="..\:/shahbaz workspace/app/src/main/res/layout/ordersingalrow.xml" value="0.24635416666666668" />
+        <entry key="..\:/shahbaz workspace/app/src/main/res/layout/recyclerviewadd.xml" value="0.24635416666666668" />
+        <entry key="..\:/shahbaz workspace/app/src/main/res/layout/tool_bar.xml" value="0.23007246376811594" />
+        <entry key="..\:/shahbaz workspace/app/src/main/res/layout/toolbar.xml" value="0.11980749746707194" />
+        <entry key="..\:/shahbaz workspace/app/src/main/res/menu/main_menu.xml" value="0.24635416666666668" />
+        <entry key="..\:/shahbaz workspace/app/src/main/res/menu/menu.xml" value="0.24635416666666668" />
+        <entry key="..\:/shahbaz workspace/app/src/main/res/menu/setting.xml" value="0.24635416666666668" />
       </map>
     </option>
   </component>
